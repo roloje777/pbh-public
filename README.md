@@ -1,2 +1,5 @@
-# pbh-public
-Public information, privacy policy, terms and support for PBH – Progressive Bodyweight Hypertrophy.
+# PBH Public Site
+
+Public website for PBH — Progressive Bodyweight Hypertrophy.
+
+Includes the Privacy Policy, Terms of Use and Support information.
