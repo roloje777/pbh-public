@@ -2,4 +2,4 @@
 
 Public website for PBH — Progressive Bodyweight Hypertrophy.
 
-Includes the Privacy Policy, Terms of Use and Support information.
+Includes the tester information page, Privacy Policy, Terms of Use and Support information.
